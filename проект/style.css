@@ -1,0 +1,36 @@
+body{
+    background-size: hover ;
+    align-items: center;
+    transition: background 0.5s ease;
+    display: grid;
+    place-items: center;
+    background-image: url('каритнки/theSity1.png');
+    
+}
+.theBeach {
+    background-image: url('каритнки/theBeach1.png');
+}
+.theSity {
+    background-image: url('каритнки/theSity1.png');
+}
+
+.thePole {
+    background-image: url('каритнки/thePole1.png');
+}
+
+.base {
+    backdrop-filter: blur(8px);
+    outline-width: 20%;
+    border-radius: 15%;
+    border-color: #ffffff;
+    height: 620px;
+    width: 470px;
+    margin-left: 2.5cqw;
+    display: grid;
+    place-items: center;
+}
+.pers{
+    width: 300px;
+
+
+}
